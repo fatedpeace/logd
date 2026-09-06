@@ -1,7 +1,64 @@
+~/dotfiles 
+❯ git status
+interactive rebase in progress; onto 65a727a
+Last command done (1 command done):
+   pick 45a8732 # setting up flakes nad home manaegr to get chillpill shell
+Next commands to do (3 remaining commands):
+   pick 45a8732 # setting up flakes nad home manaegr to get chillpill shell
+   pick b11e48a # setting up flakes nad home manaegr to get chillpill shell
+  (use "git rebase --edit-todo" to view and edit)
+You are currently editing a commit while rebasing branch 'main' on '65a727a'.
+  (use "git commit --amend" to amend the current commit)
+  (use "git rebase --continue" once you are satisfied with your changes)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .config/mozilla/firefox/pyf37k67.default/AlternateServices.bin
+	modified:   .config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/idb/4049743702LCo7g%sCD7a%taacbaafs.sqlite
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.config/mozilla/firefox/firefox-mpris/3936_7.png
+	.config/mozilla/firefox/pyf37k67.default/bookmarkbackups/bookmarks-2026-09-06_10_KpNzmUMf9xJUVc_A-j06kNVAZhNJ-20DpVihse_ODig=.jsonlz4
+	.config/mozilla/firefox/pyf37k67.default/datareporting/archived/2026-09/1788508880862.bb9179c9-fa45-4c2b-936d-5c8a22954d83.event.jsonlz4
+	.config/mozilla/firefox/pyf37k67.default/datareporting/archived/2026-09/1788508882363.e8ca9ecd-b1b7-4cc2-8433-61c049ae5d2e.main.jsonlz4
+	.config/mozilla/firefox/pyf37k67.default/datareporting/archived/2026-09/1788655630189.a8ef812c-4ecc-40b9-a075-025d4bb83723.event.jsonlz4
+	.config/mozilla/firefox/pyf37k67.default/datareporting/archived/2026-09/1788655630190.de362005-70aa-4291-b154-98cfcfe5459c.main.jsonlz4
+	.config/mozilla/firefox/pyf37k67.default/datareporting/glean/events/newtab
+	.config/mozilla/firefox/pyf37k67.default/security_state/20260904-1-default.filter.delta
+	.config/mozilla/firefox/pyf37k67.default/security_state/20260905-0-default.filter.delta
+	.config/mozilla/firefox/pyf37k67.default/security_state/20260905-1-default.filter.delta
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++github.com/cache/morgue/113/
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++github.com/cache/morgue/149/
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/1/
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/143/{5d00ef72-6bb5-4c79-ac6b-42092d24f38f}.final
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/143/{78e1a506-bc13-4c53-864d-fe1bd640928f}.final
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/145/
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/148/{f90bd61a-8f15-4da3-bbc9-c4d35df8cb94}.final
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/155/{117b3c60-2b65-40ba-805a-f411eff3589b}.final
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/172/
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/185/
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/19/{92ce806e-4ccf-4271-b721-1d7f1b389413}.final
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/193/
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/199/{8d280dfa-21ad-4118-a07c-292f7b799ac7}.final
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/204/
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/210/{1da8b50c-ce46-4b64-a207-1072b01bcfd2}.final
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/214/
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/39/{5629cf02-0504-4e86-914b-c6b3e961f927}.final
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/39/{798c33d7-6619-42f4-80c7-435e12085b27}.final
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/56/
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/6/{ca3ed405-7acf-4960-ad4d-a9af681db506}.final
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/68/
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/70/
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/81/{013191cd-6262-4964-8603-66d271660b51}.final
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/82/
+
+no changes added to commit (use "git add" and/or "git commit -a")
 
 ~/dotfiles 
 ❯ git log --oneline --graph --decorate --all -10
-* 3bc61ef (HEAD -> main) ignore firefox
+* 3bc61ef (main) ignore firefox
 | *   0801b53 (refs/stash) On main: firefox runtime changes
 |/|\  
 | | * 707bb76 untracked files on main: b11e48a setting up flakes nad home manaegr to get chillpill shell
@@ -9,10 +66,9 @@
 |/  
 * b11e48a setting up flakes nad home manaegr to get chillpill shell
 * 45a8732 setting up flakes nad home manaegr to get chillpill shell
-| * ca23189 (origin/main, origin/HEAD) Update temp.txt
+| * 65a727a (HEAD, origin/main, origin/HEAD) Update temp.txt with git command outputs
+| * ca23189 Update temp.txt
 | * 5b77c82 Update temp.txt
 | * cc4fef0 Update temp.txt with error message and remove paths
-| * b1ece4d Update temp.txt with executable file details
 
-~/dotfiles 
-❯ 
+~/dot
