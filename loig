@@ -1,19 +1,11 @@
+
 ~/dotfiles 
-❯ git status
-On branch main
-Your branch and 'origin/main' have diverged,
-and have 2 and 13 different commits each, respectively.
-  (use "git pull" if you want to integrate the remote branch with yours)
-
-Changes not staged for commit:
-  (use "git add/rm <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	deleted:    .config/mozilla/firefox/firefox-mpris/3936_1.png
-	modified:   .config/mozilla/firefox/pyf37k67.default/AlternateServices.bin
-	modified:   .config/mozilla/firefox/pyf37k67.default/prefs.js
-	modified:   .config/mozilla/firefox/pyf37k67.default/sessionstore-backups/recovery.baklz4
-	modified:   .config/mozilla/firefox/pyf37k67.default/sessionstore-backups/recovery.jsonlz4
-
-no changes added to commit (use "git add" and/or "git commit -a")
-
-~/dotfiles
+❯ git status --short
+ D .config/mozilla/firefox/firefox-mpris/3936_1.png
+ M .config/mozilla/firefox/pyf37k67.default/AlternateServices.bin
+ M .config/mozilla/firefox/pyf37k67.default/sessionstore-backups/recovery.baklz4
+ M .config/mozilla/firefox/pyf37k67.default/sessionstore-backups/recovery.jsonlz4
+ M .config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/idb/3372254649yCt7G%cCf7C%oancfaifg.sqlite
+ M .config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/idb/4049743702LCo7g%sCD7a%taacbaafs.sqlite
+ M .config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/idb/562112773yCt7-%iCt7-%raecsapfo.sqlite
+?? .gitignore
