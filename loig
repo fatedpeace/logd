@@ -1,0 +1,50 @@
+~/dotfiles 
+❯ git log --oneline HEAD@{1}..HEAD
+b11e48a (HEAD -> main) setting up flakes nad home manaegr to get chillpill shell
+
+~/dotfiles 
+❯ git status
+On branch main
+Your branch and 'origin/main' have diverged,
+and have 2 and 13 different commits each, respectively.
+  (use "git pull" if you want to integrate the remote branch with yours)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    .config/mozilla/firefox/firefox-mpris/3936_1.png
+	modified:   .config/mozilla/firefox/pyf37k67.default/AlternateServices.bin
+	modified:   .config/mozilla/firefox/pyf37k67.default/cookies.sqlite
+	modified:   .config/mozilla/firefox/pyf37k67.default/cookies.sqlite-wal
+	modified:   .config/mozilla/firefox/pyf37k67.default/datareporting/aborted-session-ping
+	modified:   .config/mozilla/firefox/pyf37k67.default/datareporting/glean/db/data.safe.bin
+	modified:   .config/mozilla/firefox/pyf37k67.default/favicons.sqlite
+	modified:   .config/mozilla/firefox/pyf37k67.default/favicons.sqlite-wal
+	modified:   .config/mozilla/firefox/pyf37k67.default/formhistory.sqlite
+	modified:   .config/mozilla/firefox/pyf37k67.default/permissions.sqlite
+	modified:   .config/mozilla/firefox/pyf37k67.default/places.sqlite
+	modified:   .config/mozilla/firefox/pyf37k67.default/places.sqlite-wal
+	modified:   .config/mozilla/firefox/pyf37k67.default/prefs.js
+	modified:   .config/mozilla/firefox/pyf37k67.default/sessionstore-backups/recovery.baklz4
+	modified:   .config/mozilla/firefox/pyf37k67.default/sessionstore-backups/recovery.jsonlz4
+	modified:   .config/mozilla/firefox/pyf37k67.default/storage/default/https+++github.com/cache/caches.sqlite
+	modified:   .config/mozilla/firefox/pyf37k67.default/storage/default/https+++github.com/cache/caches.sqlite-wal
+	modified:   .config/mozilla/firefox/pyf37k67.default/storage/default/https+++github.com/idb/1863154447osfefilrienueq_Ac3a%c.sqlite
+	modified:   .config/mozilla/firefox/pyf37k67.default/storage/default/https+++github.com/ls/data.sqlite
+	modified:   .config/mozilla/firefox/pyf37k67.default/storage/default/https+++github.com/ls/usage
+	modified:   .config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/caches.sqlite-wal
+	modified:   .config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/idb/4049743702LCo7g%sCD7a%taacbaafs.sqlite
+	modified:   .config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/idb/562112773yCt7-%iCt7-%raecsapfo.sqlite
+	modified:   .config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/ls/data.sqlite
+	modified:   .config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/ls/usage
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.config/mozilla/firefox/firefox-mpris/3936_2.png
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++github.com/cache/context_open.marker
+	.config/mozilla/firefox/pyf37k67.default/storage/default/https+++www.youtube.com/cache/morgue/117/{d461036a-a3d5-4c8d-b759-a9f198091675}.final
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+~/dotfiles 
+❯ 
